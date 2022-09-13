@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @masudrehman
-- 👀 I’m interested in Blockchain
+- 👀 I’m interested in Game Development + Blockchain
 - 📫 How to reach me masoodbarkiwork@gmail.com
 
 <!---
